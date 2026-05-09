@@ -12,4 +12,4 @@
 
 ## Список изменений
 
-Ознакомиться со списком внесённых изменений можно в файле CHANGELOG.md.
+Ознакомиться со списком внесённых изменений можно в файле [CHANGELOG.md](https://github.com/Nieroo/WotRMythicSpellsFix/blob/main/CHANGELOG.md).
