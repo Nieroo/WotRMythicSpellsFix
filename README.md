@@ -1,6 +1,6 @@
 # Исправление UI и механических ошибок работы мифических заклинаний для игры «Pathfinder: Wrath of the Righteous»
 
-Мифические заклинания игры [Pathfinder: Wrath of the Righteous](https://store.steampowered.com/app/1184370/Pathfinder_Wrath_of_the_Righteous__Enhanced_Edition/) содержат множество неточностей и ошибок UI и механики. Данный мод для OMM (Owlcat Modifications Manager) является попыткой устранить эти ошибки и неточности.
+Мифические заклинания игры [Pathfinder: Wrath of the Righteous](https://store.steampowered.com/app/1184370/Pathfinder_Wrath_of_the_Righteous__Enhanced_Edition/) содержат множество неточностей и ошибок UI и механики. Данный мод для OMM (Owlcat Modifications Manager) улучшает UI мифических заклинаний, исправляет их ошибки и убирает неточности.
 
 Мод поддерживает русскую и английскую версии игры.
 
