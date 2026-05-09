@@ -8,5 +8,10 @@
     {
         "m_List": []
     },
-    "BlueprintPatches": []
+    "BlueprintPatches": [
+        {
+            "Guid": "a948e10ecf1fa674dbae5eaae7f25a7f",
+            "Filename": "AngelEyeOfTheSun.patch"
+        }
+    ]
 }

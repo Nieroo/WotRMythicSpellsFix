@@ -1,0 +1,87 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Actions": {
+                "Actions": [
+                    {
+                        "Succeed": {
+                            "Actions": [
+                                {
+                                    "Value": {
+                                        "DiceType": "D10"
+                                    },
+                                    "ResultSharedValue": "Damage"
+                                },
+                                {
+                                    "Value": {
+                                        "DiceType": "D10"
+                                    },
+                                    "ResultSharedValue": "Damage"
+                                }
+                            ]
+                        },
+                        "Failed": {
+                            "Actions": [
+                                {
+                                    "Value": {
+                                        "DiceType": "D12",
+                                        "DiceCountValue": {
+                                            "ValueType": "Rank"
+                                        },
+                                        "BonusValue": {
+                                            "ValueType": "Simple",
+                                            "ValueRank": "Default"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Value": {
+                                        "DiceType": "D12",
+                                        "DiceCountValue": {
+                                            "ValueType": "Rank"
+                                        },
+                                        "BonusValue": {
+                                            "ValueType": "Simple",
+                                            "ValueRank": "Default"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {},
+        {},
+        {},
+        {
+            "m_Flags": 1
+        },
+        {},
+        {},
+        {
+            "$type": "91216784d99a12e428bf782c8a8c7f5c, SpellDescriptorComponent",
+            "m_Flags": "0",
+            "name": "$SpellDescriptorComponent$4f84acbd-b647-430f-ae12-8a08da4cd066",
+            "PrototypeLink": {
+                "guid": "",
+                "name": ""
+            },
+            "m_Overrides": [],
+            "Descriptor": {
+                "m_IntValue": "1"
+            }
+        }
+    ],
+    "m_Description": {
+        "m_Key": "AngelEyeOfTheSun_a948e10ecf1fa674dbae5eaae7f25a7f_Description"
+    },
+    "LocalizedDuration": {
+        "m_Key": "3d7fbfb9-10e8-4509-bab6-a8e4d3dbc3c8"
+    },
+    "LocalizedSavingThrow": {
+        "m_Key": "d58f2d26-2317-4023-921a-76d0c1590bcf"
+    }
+}
