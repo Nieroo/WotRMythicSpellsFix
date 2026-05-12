@@ -3,6 +3,10 @@
         {
             "Key": "AngelEyeOfTheSun_a948e10ecf1fa674dbae5eaae7f25a7f_Description",
             "Value": "Every enemy in a 30-foot radius takes {g|Encyclopedia:Dice}1d12{/g} {g|Encyclopedia:Damage}damage{/g} per {g|Encyclopedia:Caster_Level}caster level{/g}. Half of this damage is {g|Encyclopedia:Energy_Damage}fire damage{/g} and half of it is holy. A successful {g|Encyclopedia:Saving_Throw}Reflex saving throw{/g} reduces the amount to {g|Encyclopedia:Dice}1d10{/g} damage per caster level."
+        },
+        {
+            "Key": "AngelGrantReposeCast_b16d3d442bb3ed148a4a79a22ee7c880_Description",
+            "Value": "You make a {g|Encyclopedia:TouchAttack}touch attack{/g} against any undead creature. If it fails a {g|Encyclopedia:Saving_Throw}Will saving throw{/g}, it is immediately destroyed. If the target succeeds, it takes {g|Encyclopedia:Dice}2d6{/g} {g|Encyclopedia:Energy_Damage}holy{/g} {g|Encyclopedia:Damage}damage{/g} plus 1 damage per two {g|Encyclopedia:Caster_Level}caster levels{/g}."
         }
     ]
 }
