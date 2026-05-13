@@ -16,6 +16,10 @@
         {
             "Guid": "b16d3d442bb3ed148a4a79a22ee7c880",
             "Filename": "AngelGrantReposeCast.patch"
+        },
+        {
+            "Guid": "21d27e178c88dec4787d6ee8c00067c2",
+            "Filename": "AngelGrantRepose.patch"
         }
     ]
 }
