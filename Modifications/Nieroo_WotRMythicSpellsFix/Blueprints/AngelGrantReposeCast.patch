@@ -1,4 +1,15 @@
 {
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {
+            "m_CheckedFacts": [
+                "!bp_8a75eb16bfff86949a4ddcb3dd2f83ae"
+            ]
+        }
+    ],
     "m_Description": {
         "m_Key": "AngelGrantReposeCast_b16d3d442bb3ed148a4a79a22ee7c880_Description"
     },
