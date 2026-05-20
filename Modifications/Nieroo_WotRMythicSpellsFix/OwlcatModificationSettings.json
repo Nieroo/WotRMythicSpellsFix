@@ -20,6 +20,18 @@
         {
             "Guid": "21d27e178c88dec4787d6ee8c00067c2",
             "Filename": "AngelGrantRepose.patch"
+        },
+        {
+            "Guid": "5f83b793960047e49af1a3551afa4d58",
+            "Filename": "AngelWardOfDisease.patch"
+        },
+        {
+            "Guid": "b75ff0546bf948948adb68336e2b475d",
+            "Filename": "AngelShieldFromDemonkind.patch"
+        },
+        {
+            "Guid": "121e7332029207e409a76044780cea0d",
+            "Filename": "AngelShieldFromDemonkindBuff.patch"
         }
     ]
 }

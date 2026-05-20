@@ -1,0 +1,64 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {
+            "m_CustomProgression": [
+                {
+                    "BaseValue": 5,
+                    "ProgressionValue": 2
+                },
+                {
+                    "BaseValue": 11,
+                    "ProgressionValue": 3
+                },
+                {
+                    "BaseValue": 17,
+                    "ProgressionValue": 4
+                },
+                {
+                    "BaseValue": 23,
+                    "ProgressionValue": 5
+                },
+                {
+                    "BaseValue": 29,
+                    "ProgressionValue": 6
+                },
+                {
+                    "BaseValue": 35,
+                    "ProgressionValue": 7
+                },
+                {
+                    "BaseValue": 41,
+                    "ProgressionValue": 8
+                },
+                {
+                    "BaseValue": 47,
+                    "ProgressionValue": 9
+                },
+                {
+                    "BaseValue": 53,
+                    "ProgressionValue": 10
+                },
+                {
+                    "BaseValue": 59,
+                    "ProgressionValue": 11
+                },
+                {
+                    "BaseValue": 65,
+                    "ProgressionValue": 12
+                },
+                {
+                    "BaseValue": 71,
+                    "ProgressionValue": 13
+                },
+                {
+                    "BaseValue": 77,
+                    "ProgressionValue": 14
+                }
+            ]
+        },
+        {}
+    ]
+}

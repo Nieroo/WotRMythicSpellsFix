@@ -1,12 +1,21 @@
 {
     "strings": [
         {
-            "Key": "AngelEyeOfTheSun_a948e10ecf1fa674dbae5eaae7f25a7f_Description",
+            "Key": "2f002230-7442-40cc-bb8f-56042b1dcc7d",
             "Value": "Все враги в радиусе 30 футов получают {g|Encyclopedia:Dice}1d12{/g} {g|Encyclopedia:Damage}урона{/g} за каждый {g|Encyclopedia:Caster_Level}уровень заклинателя{/g}. Половина этого урона — {g|Encyclopedia:Energy_Damage}урон огнем{/g}, половина — святой урон. Успешный {g|Encyclopedia:Saving_Throw}спасбросок реакции{/g} уменьшает урон до 1d10 за каждый уровень заклинателя."
         },
+
         {
-            "Key": "AngelGrantReposeCast_b16d3d442bb3ed148a4a79a22ee7c880_Description",
+            "Key": "dfe4738b-9048-4c25-be68-d25db3f3e25f",
             "Value": "Вы совершаете {g|Encyclopedia:TouchAttack}атаку касанием{/g} против любого существа-нежити. Если оно проваливает {g|Encyclopedia:Saving_Throw}спасбросок воли{/g}, то оказывается немедленно уничтожено. Если спасбросок оказывается успешен, ему наносится {g|Encyclopedia:Dice}2d6{/g} {g|Encyclopedia:Energy_Damage}святого{/g} {g|Encyclopedia:Damage}урона{/g} плюс 1 урона за каждые 2 {g|Encyclopedia:Caster_Level}уровня заклинателя{/g}."
+        },
+        {
+            "Key": "d5fb8e7a-5d6a-47bd-ad33-c460bf95c25f",
+            "Value": "Цель получает невосприимчивость к болезням."
+        },
+        {
+            "Key": "39888846-bca4-47de-b880-c1afd632a518",
+            "Value": "Всякий раз, когда демон попадает по цели, ему наносится {g|Encyclopedia:Dice}1d6{/g} очков {g|Encyclopedia:Energy_Damage}святого{/g} {g|Encyclopedia:Damage}урона{/g} плюс 1 урона за каждые два уровня заклинателя. Кроме того, цель получает {g|Encyclopedia:Bonus}бонус{/g} отражения к {g|Encyclopedia:Armor_Class}защите{/g}, равный 2 плюс 1 за каждые шесть уровней заклинателя."
         }
     ]
 }
