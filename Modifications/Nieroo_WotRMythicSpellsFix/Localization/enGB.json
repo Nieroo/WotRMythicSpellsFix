@@ -40,6 +40,18 @@
         {
             "Key": "5679b356-45d3-4b54-a4c3-446900273839",
             "Value": "Every enemy in the radius of the {g|Encyclopedia:Spell}spell{/g} takes {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}holy{/g} {g|Encyclopedia:Damage}damage{/g} per {g|Encyclopedia:Caster_Level}caster level{/g}. Allies take 1 holy damage per caster level (a {g|Encyclopedia:Saving_Throw}Reflex saving throw{/g} does not reduce this damage) but are automatically {g|Encyclopedia:Healing}healed{/g} from any {g|Encyclopedia:AbilityDamage}ability score damage{/g}, {g|ConditionBlind}blindness{/g}, {g|ConditionConfusion}confusion{/g}, and {g|ConditionDazzled}dazzled{/g}, {g|ConditionExhausted}exhausted{/g}, {g|ConditionFatigued}fatigued{/g}, {g|ConditionNauseated}nauseated{/g}, and {g|ConditionSickened}sickened{/g} conditions. Additionally, it attempts to dispel all diseases, poisons, and curses from those allies."
+        },
+        {
+            "Key": "428f6aaa-70e3-47a2-b155-eb7255da79b6",
+            "Value": "All allies in a 20-foot radius gain immunity to the {g|ConditionNauseated}nauseated{/g} and {g|ConditionSickened}sickened{/g} conditions, diseases, poisons, {g|Encyclopedia:AbilityDamage}ability damage{/g}, and ability drain."
+        },
+        {
+            "Key": "26b10a1b-fc50-43ff-b00a-f95a108c8ac3",
+            "Value": "The target gains immunity to the {g|ConditionFatigued}fatigue{/g}, {g|ConditionExhausted}exhaustion{/g}, {g|ConditionNauseated}nauseated{/g}, and {g|ConditionSickened}sickened{/g} conditions, diseases, poisons, {g|Encyclopedia:AbilityDamage}ability damage{/g}, and ability drain."
+        },
+        {
+            "Key": "fd343e99-0f61-42d9-a142-199d1383626c",
+            "Value": "You bring special favor upon yourself and your allies while bringing disfavor to your enemies. You and each of your allies gain a +2 luck {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack rolls{/g}, weapon {g|Encyclopedia:Damage}damage rolls{/g}, {g|Encyclopedia:Saving_Throw}saves{/g}, and {g|Encyclopedia:Skills}skill{/g} {g|Encyclopedia:Check}checks{/g}, bonus +2 on {g|Encyclopedia:Caster_Level}caster level{/g} checks to overcome {g|Encyclopedia:Spell_Resistance}spell resistance{/g} and {g|Encyclopedia:Concentration}concentration{/g} checks, while each of your foes takes a –2 {g|Encyclopedia:Penalty}penalty{/g} on such {g|Encyclopedia:Dice}rolls{/g}."
         }
     ]
 }

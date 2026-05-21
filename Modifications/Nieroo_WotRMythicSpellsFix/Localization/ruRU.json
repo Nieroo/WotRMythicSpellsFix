@@ -40,6 +40,18 @@
         {
             "Key": "5679b356-45d3-4b54-a4c3-446900273839",
             "Value": "Все враги в радиусе {g|Encyclopedia:Spell}заклинания{/g} получают {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}святого{/g} {g|Encyclopedia:Damage}урона{/g} за каждый {g|Encyclopedia:Caster_Level}уровень заклинателя{/g}. Союзникам наносится 1 святого урона за уровень заклинателя ({g|Encyclopedia:Saving_Throw}спасбросок реакции{/g} не уменьшает этот урон), однако они автоматически {g|Encyclopedia:Healing}излечиваются{/g} от любого {g|Encyclopedia:AbilityDamage}урона значениям характеристик{/g}, {g|ConditionBlind}ослепления{/g}, {g|ConditionConfusion}замешательства{/g} и состояний {g|ConditionDazzled}растерянности{/g}, {g|ConditionExhausted}бессилия{/g}, {g|ConditionFatigued}утомления{/g}, {g|ConditionNauseated}тошноты{/g} и {g|ConditionSickened}дезориентации{/g}. Кроме того, делается попытка рассеять любые действующие на союзников эффекты болезней, ядов и проклятий."
+        },
+        {
+            "Key": "428f6aaa-70e3-47a2-b155-eb7255da79b6",
+            "Value": "Все союзники в радиусе 20 футов становятся невосприимчивы к состояниям {g|ConditionNauseated}тошноты{/g} и {g|ConditionSickened}дезориентации{/g}, болезням, ядам, {g|Encyclopedia:AbilityDamage}урону характеристикам{/g} и вытягиванию характеристик."
+        },
+        {
+            "Key": "26b10a1b-fc50-43ff-b00a-f95a108c8ac3",
+            "Value": "Цель получает невосприимчивость к состояниям {g|ConditionFatigued}утомления{/g}, {g|ConditionExhausted}бессилия{/g}, {g|ConditionNauseated}тошноты{/g} и {g|ConditionSickened}дезориентации{/g}, болезням, ядам, {g|Encyclopedia:AbilityDamage}урону характеристикам{/g} и вытягиванию характеристик."
+        },
+        {
+            "Key": "fd343e99-0f61-42d9-a142-199d1383626c",
+            "Value": "Вы призываете милость богов на помощь себе и своим союзникам, навлекая при этом невезение на врагов. Вы и ваши союзники получаете {g|Encyclopedia:Bonus}бонус{/g} удачи +2 к {g|Encyclopedia:Attack}броскам на попадание{/g} и {g|Encyclopedia:Damage}урон{/g}, {g|Encyclopedia:Saving_Throw}спасброскам{/g} и {g|Encyclopedia:Check}проверкам{/g} {g|Encyclopedia:Skills}навыков{/g}, бонус +2 к проверкам {g|Encyclopedia:Caster_Level}уровня заклинателя{/g} для преодоления {g|Encyclopedia:Spell_Resistance}устойчивости к магии{/g} и проверкам {g|Encyclopedia:Concentration}концентрации{/g}, а все ваши враги получают к тем же {g|Encyclopedia:Dice}броскам{/g} {g|Encyclopedia:Penalty}штраф{/g} –2."
         }
     ]
 }
