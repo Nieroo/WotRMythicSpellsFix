@@ -32,6 +32,26 @@
         {
             "Guid": "121e7332029207e409a76044780cea0d",
             "Filename": "AngelShieldFromDemonkindBuff.patch"
+        },
+        {
+            "Guid": "cc8be337fff61284caabe3340fc48294",
+            "Filename": "AngelBladeOfTheSun.patch"
+        },
+        {
+            "Guid": "68a9e6cdab0a51d428816e17fb366778",
+            "Filename": "AngelWardOfDiseaseCommunal.patch"
+        },
+        {
+            "Guid": "728071812567e814886ff1fc84fe066a",
+            "Filename": "AngelWardOfUnclean.patch"
+        },
+        {
+            "Guid": "33e53b74891b4c34ba6ee3baa322beeb",
+            "Filename": "AngelPureForm.patch"
+        },
+        {
+            "Guid": "041581ac635afe24daa421de5d2c2ee1",
+            "Filename": "AngelRepelTheProfane.patch"
         }
     ]
 }

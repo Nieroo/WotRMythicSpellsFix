@@ -1,0 +1,61 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Actions": {
+                "Actions": [
+                    {
+                        "ConditionsChecker": {
+                            "Conditions": [
+                                {}, // 9054d3988d491d944ac144e27b6bc318 -> OutsiderType + Evil
+                                { // 734a29b693e9ec346ba2951b27987e33 -> UndeadType
+                                    "m_Fact": "!bp_8a75eb16bfff86949a4ddcb3dd2f83ae" // 8a75eb16bfff86949a4ddcb3dd2f83ae -> UndeadImmunities
+                                },
+                                {}, // a3a5ccc9c670e6f4ca4a686d23b89900 -> AsmodeusFeature
+                                {}, // bd72ca8ffcfec5745899ac56c93f12c5 -> BaphometFeature
+                                {}, // ddf913858bdf43b4da3b731e082fbcc0 -> DeskariFeature
+                                {}, // 8b535b6842e063d48a571a042c3c6e8f -> GyronnaFeature
+                                {}, // f12c1ccc9d600c04f8887cd28a8f45a5 -> KabririFeature
+                                {}, // f86bc8fbf13221f4f9041608a1fb8585 -> LamashtuFeature
+                                {}, // 805b6bdc8c96f4749afc687a003f9628 -> NorgorberFeature
+                                {}, // 04bc2b62273ab744092d992ed72bff41 -> RovagugFeature
+                                {}, // 812f6c07148088e41a9ac94b56ac2fc8 -> UrgathoaFeature
+                                {}, // f7eed400baa66a744ad361d4df0e6f1b -> ZonKuthonFeature
+                                {
+                                  "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                  "name": "$ContextConditionHasFact$3808d505-930c-419e-8339-da24b76f9428",
+                                  "Not": false,
+                                  "m_Fact": "!bp_d714ecb5d5bb89a42957de0304e459c9" // AreshkagalFeature
+                                },
+                                {
+                                  "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                  "name": "$ContextConditionHasFact$3808d505-930c-419e-8339-da24b76f9428",
+                                  "Not": false,
+                                  "m_Fact": "!bp_a3189d5b7c4d4d91beaa8bfffac3e38e" // AchaekekFeature
+                                },
+                                {
+                                  "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                  "name": "$ContextConditionHasFact$3808d505-930c-419e-8339-da24b76f9428",
+                                  "Not": false,
+                                  "m_Fact": "!bp_8f7118d68f6e44dea94dddb51f38cbdd" // DahakFeature
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {},
+        {},
+        {},
+        {}
+    ],
+    "CanTargetPoint": true,
+    "AvailableMetamagic": "Quicken, Extend, Heighten, CompletelyNormal, Selective, Persistent",
+    "LocalizedDuration": {
+        "m_Key": "6250ccf0-1ed0-460f-8ce7-094c2da7e198"
+    },
+    "LocalizedSavingThrow": {
+        "m_Key": "03e30000-0921-4296-a8b4-9566a9777a5d"
+    }
+}

@@ -16,6 +16,18 @@
         {
             "Key": "39888846-bca4-47de-b880-c1afd632a518",
             "Value": "Any time the target is hit by a demon, the demon takes {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Energy_Damage}holy{/g} {g|Encyclopedia:Damage}damage{/g} plus 1 damage per two caster levels. Additionally, the target gains a deflection {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} equal to 2 plus 1 per six caster levels."
+        },
+        {
+            "Key": "eb248c1d-97f4-48b2-a488-74a5577077b0",
+            "Value": "All allies in a 20-foot radius gain immunity to diseases."
+        },
+        {
+            "Key": "cded7d55-9228-4a26-8a2a-6b420baf8236",
+            "Value": "The target gains immunity to the {g|ConditionNauseated}nauseated{/g} and {g|ConditionSickened}sickened{/g} conditions, diseases, and poisons."
+        },
+        {
+            "Key": "f761c2c4-b17e-46c2-b347-c20eb1d97170",
+            "Value": "This {g|Encyclopedia:Spell}spell{/g} affects all undead creatures, {g|Encyclopedia:Alignment}evil{/g} outsiders, and adepts of evil deities. If the target fails a {g|Encyclopedia:Saving_Throw}Will saving throw{/g}, it's {g|ConditionFrightened}frightened{/g} for 1 {g|Encyclopedia:Combat_Round}round{/g} per {g|Encyclopedia:Caster_Level}caster level{/g}. If the saving throw is successful, the target is {g|ConditionShaken}shaken{/g} for 1 round. This spell ignores immunity to fear effects."
         }
     ]
 }
