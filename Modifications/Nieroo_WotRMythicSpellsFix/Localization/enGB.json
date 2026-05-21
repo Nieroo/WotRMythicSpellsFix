@@ -28,6 +28,18 @@
         {
             "Key": "f761c2c4-b17e-46c2-b347-c20eb1d97170",
             "Value": "This {g|Encyclopedia:Spell}spell{/g} affects all undead creatures, {g|Encyclopedia:Alignment}evil{/g} outsiders, and adepts of evil deities. If the target fails a {g|Encyclopedia:Saving_Throw}Will saving throw{/g}, it's {g|ConditionFrightened}frightened{/g} for 1 {g|Encyclopedia:Combat_Round}round{/g} per {g|Encyclopedia:Caster_Level}caster level{/g}. If the saving throw is successful, the target is {g|ConditionShaken}shaken{/g} for 1 round. This spell ignores immunity to fear effects."
+        },
+        {
+            "Key": "d4de13c2-68c0-4a11-b1de-cce0bcd1ce72",
+            "Value": "The target gains immunity to the {g|ConditionNauseated}nauseated{/g} and {g|ConditionSickened}sickened{/g} conditions, diseases, poisons, {g|Encyclopedia:AbilityDamage}ability damage{/g}, and ability drain."
+        },
+        {
+            "Key": "feab15b2-cf2e-46b7-9a1f-40ac2834fda1",
+            "Value": "All allies in a 20-foot radius gain immunity to the {g|ConditionNauseated}nauseated{/g} and {g|ConditionSickened}sickened{/g} conditions, diseases, and poisons."
+        },
+        {
+            "Key": "5679b356-45d3-4b54-a4c3-446900273839",
+            "Value": "Every enemy in the radius of the {g|Encyclopedia:Spell}spell{/g} takes {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}holy{/g} {g|Encyclopedia:Damage}damage{/g} per {g|Encyclopedia:Caster_Level}caster level{/g}. Allies take 1 holy damage per caster level (a {g|Encyclopedia:Saving_Throw}Reflex saving throw{/g} does not reduce this damage) but are automatically {g|Encyclopedia:Healing}healed{/g} from any {g|Encyclopedia:AbilityDamage}ability score damage{/g}, {g|ConditionBlind}blindness{/g}, {g|ConditionConfusion}confusion{/g}, and {g|ConditionDazzled}dazzled{/g}, {g|ConditionExhausted}exhausted{/g}, {g|ConditionFatigued}fatigued{/g}, {g|ConditionNauseated}nauseated{/g}, and {g|ConditionSickened}sickened{/g} conditions. Additionally, it attempts to dispel all diseases, poisons, and curses from those allies."
         }
     ]
 }

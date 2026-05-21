@@ -28,6 +28,18 @@
         {
             "Key": "f761c2c4-b17e-46c2-b347-c20eb1d97170",
             "Value": "Это {g|Encyclopedia:Spell}заклинание{/g} затрагивает всю нежить, {g|Encyclopedia:Alignment}злых{/g} потусторонних существ и адептов злых богов. Если цель проваливает {g|Encyclopedia:Saving_Throw}спасбросок воли{/g}, она оказывается {g|ConditionFrightened}напугана{/g} на 1 {g|Encyclopedia:Combat_Round}раунд{/g} за каждый {g|Encyclopedia:Caster_Level}уровень заклинателя{/g}. При успехе цель оказывается {g|ConditionShaken}потрясена{/g} на один раунд. Это заклинание игнорирует невосприимчивость к эффектам страха."
+        },
+        {
+            "Key": "d4de13c2-68c0-4a11-b1de-cce0bcd1ce72",
+            "Value": "Цель получает невосприимчивость к состояниям {g|ConditionNauseated}тошноты{/g} и {g|ConditionSickened}дезориентации{/g}, болезням, ядам, {g|Encyclopedia:AbilityDamage}урону характеристикам{/g} и вытягиванию характеристик."
+        },
+        {
+            "Key": "feab15b2-cf2e-46b7-9a1f-40ac2834fda1",
+            "Value": "Все союзники в радиусе 20 футов становятся невосприимчивы к состояниям {g|ConditionNauseated}тошноты{/g} и {g|ConditionSickened}дезориентации{/g}, болезням и яду."
+        },
+        {
+            "Key": "5679b356-45d3-4b54-a4c3-446900273839",
+            "Value": "Все враги в радиусе {g|Encyclopedia:Spell}заклинания{/g} получают {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}святого{/g} {g|Encyclopedia:Damage}урона{/g} за каждый {g|Encyclopedia:Caster_Level}уровень заклинателя{/g}. Союзникам наносится 1 святого урона за уровень заклинателя ({g|Encyclopedia:Saving_Throw}спасбросок реакции{/g} не уменьшает этот урон), однако они автоматически {g|Encyclopedia:Healing}излечиваются{/g} от любого {g|Encyclopedia:AbilityDamage}урона значениям характеристик{/g}, {g|ConditionBlind}ослепления{/g}, {g|ConditionConfusion}замешательства{/g} и состояний {g|ConditionDazzled}растерянности{/g}, {g|ConditionExhausted}бессилия{/g}, {g|ConditionFatigued}утомления{/g}, {g|ConditionNauseated}тошноты{/g} и {g|ConditionSickened}дезориентации{/g}. Кроме того, делается попытка рассеять любые действующие на союзников эффекты болезней, ядов и проклятий."
         }
     ]
 }

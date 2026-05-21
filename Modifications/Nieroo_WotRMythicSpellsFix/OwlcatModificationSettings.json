@@ -52,6 +52,18 @@
         {
             "Guid": "041581ac635afe24daa421de5d2c2ee1",
             "Filename": "AngelRepelTheProfane.patch"
+        },
+        {
+            "Guid": "6fcaa7eb895239e4397e8e0781347adf",
+            "Filename": "AngelWardFromHarm.patch"
+        },
+        {
+            "Guid": "fcb5af4434f13b141986b4af2403704d",
+            "Filename": "AngelWardOfUncleanCommunal.patch"
+        },
+        {
+            "Guid": "3c4c33f314a8bd64994d34ed5db2b96f",
+            "Filename": "AngelCleansingFlames.patch"
         }
     ]
 }

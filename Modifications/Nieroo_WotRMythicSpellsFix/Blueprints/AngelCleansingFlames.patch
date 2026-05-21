@@ -1,0 +1,9 @@
+{
+    "AvailableMetamagic": "Reach, Selective, Maximize, Heighten, CompletelyNormal, Bolstered, Empower, Quicken, Persistent",
+    "LocalizedDuration": {
+        "m_Key": "3d7fbfb9-10e8-4509-bab6-a8e4d3dbc3c8"
+    },
+    "LocalizedSavingThrow": {
+        "m_Key": "dccd7029-0a51-4e5b-9cb2-7a2969b61516"
+    }
+}
